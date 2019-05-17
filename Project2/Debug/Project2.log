@@ -1,0 +1,23 @@
+﻿  Project2.cpp
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\dane.h(35): warning C4244: "inicjowanie": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\dane.h(36): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\kula.h(21): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(42): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(42): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(59): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(271): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(305): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(312): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(318): warning C4244: "inicjowanie": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(387): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(394): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(409): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(410): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(411): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(412): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(456): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(490): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(595): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(626): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\sem2\jipp\fun\arkanoidustus\project2\project2.cpp(627): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Project2.vcxproj -> D:\studia\sem2\jipp\fun\arkanoidustus\Debug\Project2.exe
